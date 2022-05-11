@@ -1,0 +1,17 @@
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.exe
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.deps.json
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.runtimeconfig.json
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.runtimeconfig.dev.json
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.dll
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.pdb
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.csprojAssemblyReference.cache
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.Form1.resources
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.csproj.GenerateResource.cache
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.AssemblyInfoInputs.cache
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.AssemblyInfo.cs
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.csproj.CoreCompileInputs.cache
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.dll
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.pdb
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.genruntimeconfig.cache
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.Properties.Resources.resources
+E:\Рабочий_стол\Case_Severstal\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.Form2.resources
